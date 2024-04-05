@@ -90,9 +90,3 @@ font-size: 45px;
     color: #000000;
     padding: 15px 0;
 }
-
-.membros-icones-link:hover{
-    font-weight: 100;
-    text-decoration: underline;
-    color: orange;
-}
